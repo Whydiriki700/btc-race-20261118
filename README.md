@@ -1,3 +1,5 @@
+![btc-race-20261118](assets/preview.png)
+
 # Dip-Bounce Bot for the 24h BTC Race
 
 A trading bot that races Coinbase Wrapped BTC (cbBTC) against USDC on 1-minute on-chain prices for 24 hours, starting from $1,000 of paper money. An entry for the make.fun **btc-race-24h-20261118-1444** bounty.
